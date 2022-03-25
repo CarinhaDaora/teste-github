@@ -1,0 +1,31 @@
+body{
+    background-color:rosybrown;
+    color:black;
+    font-family: sans-serif;
+
+}
+p{
+    Font-size:45px;
+    font-family:monospace;
+    text-align: center
+}
+
+
+.tamanho{
+    font-size:25px;
+}
+.tamanho2{
+    font-size:18px;
+}
+
+h2{
+    font-family: monospace;
+    font-size: 25px;
+    
+}
+
+h3{
+    font-size: 15px;
+    text-align: end;
+}
+
