@@ -34,7 +34,16 @@ Lista de tarefas a fazer no repositório:
 
 - [  ] Ler a documentação sobre *markdown*
 
-- [  ] Ler a documentação do git/github
+- [  ] Ler a documentação do git/github;
+
+
+# BRANCHS
+Git Branch -> LISTA AS BRANCHS DO COMPUTADOR;
+
+Git Branch nome-da-nova-branch -> Não Colocar Acento ou Ç, e Use Underscore Para Os Espaços Em Branco.
+
+Git Checkout nome_da_branch -> Muda De Branch
+
 ## Referências
 
 * [Documentação do Github](https://docs.github.com/pt/get-started/writing-on-github/getting=started=with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
