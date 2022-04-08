@@ -39,7 +39,9 @@ Lista de tarefas a fazer no repositório:
 
 # BRANCHS
 Git Branch -> LISTA AS BRANCHS DO COMPUTADOR;
+
 Git Branch nome-da-nova-branch -> Não Colocar Acento ou Ç, e Use Underscore Para Os Espaços Em Branco.
+
 Git Checkout nome_da_branch -> Muda De Branch
 
 ## Referências
